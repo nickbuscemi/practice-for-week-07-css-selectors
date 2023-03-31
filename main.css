@@ -1,5 +1,37 @@
 /* Your code here */
+#page-title {
+    font-weight: bold;
+}
 
+.pagenum {
+    position: absolute;
+    right: 1%;
+    font-size: small;
+}
+
+p {
+    text-align: justify;
+    margin-block-end: .75em;
+    margin-block-start: .75em;
+}
+
+pre {
+    width: fit-content;
+    margin: auto;
+}
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+pre a {
+    text-decoration: none;
+    color: black;
+}
 /* ===== DO NOT EDIT BELOW THIS COMMENT ===== */
 
 .noin {
